@@ -1,2 +1,14 @@
-# Iris_Flower_Classification
-ris Flower Classification Objective: Classify iris flowers into three species (Setosa, Versicolor, Virginica) based on measurements of their petals and sepals.
+# 🌸 Iris Flower Classifier
+
+A machine learning web app that classifies iris flowers into 3 species
+— Setosa, Versicolor, and Virginica.
+
+## 🚀 Live Demo
+[Click here to try the app](https://your-app-link.streamlit.app)
+
+## 🛠 Tech Stack
+Python · scikit-learn · Streamlit · pandas · matplotlib · seaborn
+
+## ▶️ Run Locally
+pip install -r requirements.txt
+streamlit run app.py
